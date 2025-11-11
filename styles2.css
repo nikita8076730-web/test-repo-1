@@ -1,0 +1,51 @@
+body {
+  font-size: 24px;
+}
+
+.red {
+  color: rgb(238, 5, 16);
+}
+
+.green {
+  color: green;
+}
+
+.blue {
+  color: rgb(53, 21, 168);
+}
+
+.yellow {
+  color: rgb(184, 212, 20);
+}
+
+.italic {
+  font-style: italic;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.xxsmall {
+  font-size: 10px;
+}
+
+.xsmall {
+  font-size: 20px;
+}
+
+.medium {
+  font-size: 30px;
+}
+
+.large {
+  font-size: 40px;
+}
+
+.xlarge {
+  font-size: 50px;
+}
+
+.xxlarge {
+  font-size: 70px; 
+}
